@@ -8,8 +8,10 @@
 3. `git clone https://github.com/Ethicalgrey/ip_tracker.git`
 ## How to run the ip_tracker???
 1. Go to the ip_tracker folder ex: `cd ip_tracker`
-2. now make the ip_tracker.py file executable by typing the command below
-3. `chmod +x ip_tracker.py`
-4. now run the ip_tracker.py file with `python3 Run.py`
+2. make install.sh file executable by 'chmod +x install.sh'
+3. run 'bash install.sh'
+4. now make the ip_tracker.py file executable by typing the command below
+5. `chmod +x ip_tracker.py`
+6. now run the ip_tracker.py file with `python3 Run.py`
 
 ![Screenshot_2](https://user-images.githubusercontent.com/65472841/209492448-5dc714a7-e125-4fa6-a0ec-b43a320c69f1.png)
